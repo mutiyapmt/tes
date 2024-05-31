@@ -1,0 +1,15 @@
+1. Laravel :
+	- Basic & Advanced  :
+		1. Laravel Uncover
+		2. Laravel InDepth Uncover
+	- Base on Project
+		1. BWA : 
+			1. Build App Like Netflix
+			2. Build Freelance Web
+
+		2.SantriKoding :
+			1. News App Laravel+inertia+Android
+			2. Online Shop Laravel+Inertia+react
+			3. Forum Web Laravel+inertia+react
+			4. Website desa laravel+react+react native
+			5. Web Inventory laravel+tailwind
